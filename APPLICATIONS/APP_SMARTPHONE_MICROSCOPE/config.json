@@ -1,0 +1,50 @@
+{
+  "type": "application",
+  "description": "the Smartphone Microscope.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Eyepiece_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Mirror_45_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_LED_Matrix_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

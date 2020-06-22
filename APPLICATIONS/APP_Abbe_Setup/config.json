@@ -1,0 +1,42 @@
+{
+  "type": "application",
+  "description": "the Abbe Diffraction Experiment. It has two cameras where one captures the Fourier plane and the other acquires the image plane.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Beamsplitter_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_RaspiCam_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

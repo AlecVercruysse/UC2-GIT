@@ -1,0 +1,5 @@
+{
+  "type": "application",
+  "description": "the openSIM project which integrates structured illumination microscopy into the UC2-system.",
+  "modules": []
+}

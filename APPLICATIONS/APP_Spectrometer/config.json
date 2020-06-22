@@ -1,0 +1,38 @@
+{
+  "type": "application",
+  "description": "TODO: This, and the readme, needs more documentation.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_Sample_Holder_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Mirror_Kinematic_45_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_RaspiCam_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Sample_Holder_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

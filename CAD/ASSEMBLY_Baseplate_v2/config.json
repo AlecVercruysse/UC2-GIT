@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "description": "the design of the baseplates. The .stl files can be found in the folder [STL](./STL).",
+  "options": {}
+}

@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "description": "This parts adapt a LED matrix to the UC2 cubes. Electric control is done by an ESP32.",
+  "options": {}
+}

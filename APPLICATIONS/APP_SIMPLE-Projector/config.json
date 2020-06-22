@@ -1,0 +1,26 @@
+{
+  "type": "application",
+  "description": "We developed a very easy-to-use setup to demonstrate single lens imaging and magnification.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_LED_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

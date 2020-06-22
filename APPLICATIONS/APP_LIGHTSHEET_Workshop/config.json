@@ -1,0 +1,78 @@
+{
+  "type": "application",
+  "description": "This is the manual for the Lightsheet Microscope used for the International Day of Light (IDoL) workshop.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_Lens_CYLINDRICAL_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Laser_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Mirror_Kinematic_45_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_RaspiCam_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Beamexpander_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Beamexpander_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Laser_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

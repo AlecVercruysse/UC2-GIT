@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "description": "the Camera Cube which hosts an embedded vision camera from Allied Vision (Alvium).",
+  "options": {}
+}

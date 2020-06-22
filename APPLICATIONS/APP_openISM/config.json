@@ -1,0 +1,5 @@
+{
+  "type": "application",
+  "description": "the openISM project which integrates a laser-scanning module for image-scanning microscopy (ISM) to the UC2-system.",
+  "modules": []
+}

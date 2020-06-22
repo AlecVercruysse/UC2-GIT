@@ -1,0 +1,18 @@
+{
+  "type": "application",
+  "description": "We developed a very easy-to-use setup to help you understand how a telescope works. It guides you through different optical designs, all with one goal: magnifying far-away objects.",
+  "modules": [
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_Baseplate_v2",
+      "fixedOptions": {}
+    },
+    {
+      "name": "ASSEMBLY_CUBE_Lens_v2",
+      "fixedOptions": {}
+    }
+  ]
+}

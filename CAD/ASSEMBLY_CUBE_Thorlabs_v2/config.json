@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "description": "the Insert which adapts the UC2 System to the Thorlabs-Cube-System World.",
+  "options": {}
+}
