@@ -13,14 +13,6 @@
     {
       "name": "ASSEMBLY_Baseplate_v2",
       "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Lens_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_LED_v2",
-      "fixedOptions": {}
     }
   ]
 }

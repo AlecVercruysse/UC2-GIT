@@ -18,7 +18,9 @@ def get_modules(dirname):
                 "name":modname,
                 "fixedOptions": {}
             })
-    return modules
+    modules_no_duplicates = []
+    [modules_no_duplicates.append(x) for x in modules if x not in modules_no_duplicates]
+    return modules_no_duplicates
 
     
 sentence = re.compile(r"[A-Z][a-z]+.*\.")

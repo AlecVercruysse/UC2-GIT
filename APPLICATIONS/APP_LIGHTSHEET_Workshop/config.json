@@ -19,31 +19,11 @@
       "fixedOptions": {}
     },
     {
-      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
       "name": "ASSEMBLY_CUBE_Mirror_Kinematic_45_v2",
       "fixedOptions": {}
     },
     {
-      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Z-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
       "name": "ASSEMBLY_CUBE_RaspiCam_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
       "fixedOptions": {}
     },
     {
@@ -52,22 +32,6 @@
     },
     {
       "name": "ASSEMBLY_CUBE_Lens_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Beamexpander_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_S-STAGE_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Laser_v2",
       "fixedOptions": {}
     },
     {

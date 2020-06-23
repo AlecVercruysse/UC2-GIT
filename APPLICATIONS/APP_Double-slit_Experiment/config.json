@@ -11,15 +11,7 @@
       "fixedOptions": {}
     },
     {
-      "name": "ASSEMBLY_CUBE_LED_v2",
-      "fixedOptions": {}
-    },
-    {
       "name": "ASSEMBLY_CUBE_RaspiCam_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_LED_v2",
       "fixedOptions": {}
     }
   ]

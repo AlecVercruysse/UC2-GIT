@@ -23,31 +23,11 @@
       "fixedOptions": {}
     },
     {
-      "name": "ASSEMBLY_CUBE_Mirror_45_v2",
-      "fixedOptions": {}
-    },
-    {
       "name": "ASSEMBLY_CUBE_RaspiCam_v2",
       "fixedOptions": {}
     },
     {
       "name": "ASSEMBLY_CUBE_Beamexpander_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Beamexpander_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Laser_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_Baseplate_v2",
-      "fixedOptions": {}
-    },
-    {
-      "name": "ASSEMBLY_CUBE_Sample_Holder_v2",
       "fixedOptions": {}
     }
   ]
