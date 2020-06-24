@@ -40,13 +40,13 @@
      {
          "path": "STL/00_Connector_Baseplate.stl",
          "conditions": {
-             "include3Dadapter": [true],
+             "include3DAdapter": [true],
              "dimensions": ["1x1"]
          }},
      {
          "path": "STL/Assembly_Base_Connector_4.stl",
          "conditions": {
-             "include3Dadapter": [true],
+             "include3DAdapter": [true],
              "dimensions": ["4x1", "4x2", "4x4"]
          }}
     ]
