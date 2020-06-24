@@ -1,5 +1,31 @@
 {
-  "type": "module",
-  "description": "the Adjustable Mirror Holder Cube.",
-  "options": {}
+    "type": "module",
+    "description": "The Adjustable Mirror Holder Cube, which holds mirrors at a 45° angle.",
+    "options": {
+        "mirrorType": {
+            "displayName": "Mirror Type",
+            "choices": [
+                "30mm x 30mm square",
+                "1 inch diameter",
+                "none (custom)"]
+        }
+    },
+    "fixedFiles": [
+        "STL/10_Cube_1x1_v2.stl",
+        "STL/10_Lid_1x1_v2.stl"
+    ],
+    "dynamicFiles": [
+        {
+            "path": "STL/20_Cube_Insert_Mirror_Holder_v2.stl",
+            "conditions": {
+                "mirrorType": ["1 inch diameter"]
+            }
+        },
+        {
+            "path": "STL/20_Cube_Insert_Mirror_Holder_v2.stl",
+            "conditions": {
+                "mirrorType": ["30mm x 30mm square"]
+            }
+        }
+    ]
 }

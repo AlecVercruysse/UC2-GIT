@@ -1,5 +1,53 @@
 {
-  "type": "module",
-  "description": "the design of the baseplates. The .stl files can be found in the folder [STL](./STL).",
-  "options": {}
+    "type": "module",
+    "description": "The baseplate to which all cubes attach to.",
+    "options": {
+        "dimensions": {
+            "displayName": "Baseplate Dimensions",
+            "choices": [
+                "4x4",
+                "4x2",
+                "4x1",
+                "1x1"]
+        },
+        "include3DAdapter": {
+            "displayName": "Include 90° Baseplate Connector",
+            "choices": [true, false]
+        }
+    },
+    "fixedFiles": [],
+    "dynamicFiles":
+    [{
+        "path": "STL/Assembly_base_4x4.stl",
+        "conditions": {
+            "dimensions": ["4x4"]
+        }},
+     {
+         "path": "STL/Assembly_base_4x2.stl",
+         "conditions": {
+             "dimensions": ["4x2"]
+         }},
+     {
+         "path": "STL/STL/Assembly_base_4x1.stl",
+         "conditions": {
+             "dimensions": ["4x1"]
+         }},
+     {
+         "path": "STL/10_Base_v2.stl",
+         "conditions": {
+             "dimensions": ["1x1"]
+         }},
+     {
+         "path": "STL/00_Connector_Baseplate.stl",
+         "conditions": {
+             "include3Dadapter": [true],
+             "dimensions": ["1x1"]
+         }},
+     {
+         "path": "STL/Assembly_Base_Connector_4.stl",
+         "conditions": {
+             "include3Dadapter": [true],
+             "dimensions": ["4x1", "4x2", "4x4"]
+         }}
+    ]
 }
