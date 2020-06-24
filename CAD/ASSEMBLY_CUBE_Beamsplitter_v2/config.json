@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Beamsplitter Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

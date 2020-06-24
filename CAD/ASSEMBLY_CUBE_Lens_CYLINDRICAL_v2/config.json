@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "This is a lens-holder for rectangular (e.g. cylindrical) lenses.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

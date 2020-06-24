@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the design of the smartphone holder. ",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

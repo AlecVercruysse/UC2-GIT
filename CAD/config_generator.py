@@ -1,5 +1,7 @@
 import os, json
-dirs = [x for x in os.scandir() if "ASSEMBLY" in x.name]
+already_written = ["ASSEMBLY_Baseplate_v2", "ASSEMBLY_CUBE_LED_Matrix_v2", "ASSEMBLY_CUBE_Mirror_45_v2"]
+dirs = [x for x in os.scandir() if ("ASSEMBLY" in x.name)]
+dirs = [x for x in dirs if x.name not in already_written]
 for d in dirs:
     print(d.name)
     with open(d.name + "/Readme.md", "r") as f:
@@ -9,6 +11,8 @@ for d in dirs:
             data = {
                 "type":"module",
                 "description" : desc,
-                "options": {}
+                "options": {},
+                "fixedFiles": [],
+                "dynamicFiles": []
                 }
             json.dump(data, j, indent=2)

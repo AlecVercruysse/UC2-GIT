@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Z-Stage (Sample) Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

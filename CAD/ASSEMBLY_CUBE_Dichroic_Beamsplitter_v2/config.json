@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Dichroic Beamsplitter Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

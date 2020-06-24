@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Camera Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

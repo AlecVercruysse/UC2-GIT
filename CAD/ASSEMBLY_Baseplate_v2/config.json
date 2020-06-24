@@ -12,7 +12,7 @@
         },
         "include3DAdapter": {
             "displayName": "Include 90° Baseplate Connector",
-            "choices": [true, false]
+            "choices": [false, true]
         }
     },
     "fixedFiles": [],

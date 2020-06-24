@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Diagonal Kinematic Mirror Holder Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

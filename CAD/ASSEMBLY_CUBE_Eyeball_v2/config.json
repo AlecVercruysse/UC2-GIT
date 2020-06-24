@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the Eyeball Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }

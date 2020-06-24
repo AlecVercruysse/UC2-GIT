@@ -1,5 +1,7 @@
 {
   "type": "module",
   "description": "the mechanical Z-Stage (Objective) Cube.",
-  "options": {}
+  "options": {},
+  "fixedFiles": [],
+  "dynamicFiles": []
 }
