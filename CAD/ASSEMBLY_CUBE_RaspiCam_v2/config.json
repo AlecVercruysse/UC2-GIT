@@ -1,7 +1,11 @@
 {
   "type": "module",
-  "description": "the Camera Cube.",
+  "description": "Camera Holder for the RaspiCam v2",
   "options": {},
-  "fixedFiles": [],
+  "fixedFiles": [
+    "STL/10_Cube_1x1_v2.stl",
+    "STL/10_Lid_1x1_v2.stl",
+    "STL/20_Cube_Insert_RaspiCam.stl"
+  ],
   "dynamicFiles": []
 }

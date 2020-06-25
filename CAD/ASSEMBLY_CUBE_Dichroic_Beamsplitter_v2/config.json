@@ -1,7 +1,14 @@
 {
   "type": "module",
-  "description": "the Dichroic Beamsplitter Cube.",
+  "description": "Cube to hold an emission and excitation filter as well as a dicrhoic mirror (for flourescence microscopic imaging)",
   "options": {},
-  "fixedFiles": [],
+  "fixedFiles": [
+    "STL/10_Cube_1x1_v2.stl",
+    "STL/10_Lid_1x1_v2.stl",
+    "STL/20_Cube_Insert_Beamsplittercube_Base.stl",
+    "STL/20_Cube_Insert_Beamsplittercube_Dichroicmirror_Retainplate.stl",
+    "STL/20_Cube_Insert_Beamsplittercube_Retainring_25mm.stl",
+    "STL/20_Cube_Insert_Beamsplittercube_Retainring_25mm.stl"
+  ],
   "dynamicFiles": []
 }

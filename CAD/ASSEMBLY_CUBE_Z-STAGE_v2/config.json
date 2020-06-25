@@ -1,7 +1,46 @@
 {
   "type": "module",
-  "description": "the Z-Stage (Objective) Cube.",
-  "options": {},
-  "fixedFiles": [],
-  "dynamicFiles": []
+  "description": "Flexure-bearing based Objective Z-Stage",
+  "options": {
+    "includeFluomodule": {
+      "displayName": "Include Fluomodule",
+      "choices": [
+        "yes",
+        "no"
+      ]
+    }
+  },
+  "fixedFiles": [
+    "STL/10_Cube_2x1_v2.stl",
+    "STL/10_Lid_el_2x1_v2.stl",
+    "STL/20_focus_inlet_linearflexure_v0.stl",
+    "STL/30_Coupling_Screw_28BYJ_M3.stl",
+    "STL/30_focus_inlet_objective_mount_v7.stl"
+  ],
+  "dynamicFiles": [
+    {
+      "path": "STL/30_Z_Stage_Adapterplate_11.stl",
+      "conditions": {
+        "includeFluomodule": [
+          "yes"
+        ]
+      }
+    },
+    {
+      "path": "STL/30_Z_Stage_Fluomodule_12.stl",
+      "conditions": {
+        "includeFluomodule": [
+          "yes"
+        ]
+      }
+    },
+    {
+      "path": "STL/40_XY_Stage_Clamp_Slide_9.stl",
+      "conditions": {
+        "includeFluomodule": [
+          "yes"
+        ]
+      }
+    }
+  ]
 }
