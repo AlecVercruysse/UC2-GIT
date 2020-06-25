@@ -22,7 +22,7 @@
             }
         },
         {
-            "path": "STL/20_Cube_Insert_Mirror_Holder_v2.stl",
+            "path": "STL/20_Cube_Insert_Mirror_Holder_30x30Mirror_v2.stl",
             "conditions": {
                 "mirrorType": ["30mm x 30mm square"]
             }

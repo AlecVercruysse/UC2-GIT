@@ -12,7 +12,10 @@
     },
     {
       "name": "ASSEMBLY_Baseplate_v2",
-      "fixedOptions": {}
+        "fixedOptions": {
+            "dimensions": "4x4",
+            "include3DAdapter": "false"
+        }
     },
     {
       "name": "ASSEMBLY_CUBE_RaspiCam_v2",
