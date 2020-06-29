@@ -1,0 +1,2 @@
+this list created with
+`find CAD/ -type f -iname "*.stl" -print0 | xargs -0 mv -t STLS/`
