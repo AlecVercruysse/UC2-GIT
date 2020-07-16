@@ -22,7 +22,7 @@
   "fixedFiles": [],
   "dynamicFiles": [
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_Assembly_base_4x4.stl",
+      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_base_4x4.stl",
       "conditions": {
         "dimensions": [
           "4x4"
@@ -30,7 +30,7 @@
       }
     },
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_Assembly_base_4x2.stl",
+      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_base_4x2.stl",
       "conditions": {
         "dimensions": [
           "4x2"
@@ -38,7 +38,7 @@
       }
     },
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_Assembly_base_4x1.stl",
+      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_base_4x1.stl",
       "conditions": {
         "dimensions": [
           "4x1"
@@ -65,7 +65,7 @@
       }
     },
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_Assembly_Base_Connector_4.stl",
+      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_Base_Connector_4.stl",
       "conditions": {
         "include3DAdapter": [
           "true"

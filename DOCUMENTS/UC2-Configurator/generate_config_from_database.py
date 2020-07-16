@@ -287,7 +287,7 @@ for module_name in module_dirs:
         print("updating fixedFile config paths...")
         for i in range(len(module_config['fixedFiles'])):
             module_config['fixedFiles'][i] = module_config['fixedFiles'][
-                i].replace('STL/',
+                i].replace("Assembly_", "").replace('STL/',
                            'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
     if (len(module_config['dynamicFiles']) != 0
             and "Assembly_ALL_PARTS_FOR_EXPORT_"
@@ -295,7 +295,7 @@ for module_name in module_dirs:
         print("updating dynamicFile config paths...")
         for i in range(len(module_config['dynamicFiles'])):
             module_config['dynamicFiles'][i]['path'] = module_config[
-                'dynamicFiles'][i]['path'].replace(
+                'dynamicFiles'][i]['path'].replace("Assembly_", "").replace(
                     'STL/', 'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
 
     module_config['githubLink'] = module.githublink
