@@ -280,23 +280,24 @@ for module_name in module_dirs:
         module_config[
             'description'] += " TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED"  # we need to create the config manually!
 
-    # update paths if the config is out of date
-    if (len(module_config['fixedFiles']) != 0
-            and "Assembly_ALL_PARTS_FOR_EXPORT_"
-            not in module_config['fixedFiles'][0]):
-        print("updating fixedFile config paths...")
-        for i in range(len(module_config['fixedFiles'])):
-            module_config['fixedFiles'][i] = module_config['fixedFiles'][
-                i].replace("Assembly_", "").replace('STL/',
-                           'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
-    if (len(module_config['dynamicFiles']) != 0
-            and "Assembly_ALL_PARTS_FOR_EXPORT_"
-            not in module_config['dynamicFiles'][0]['path']):
-        print("updating dynamicFile config paths...")
-        for i in range(len(module_config['dynamicFiles'])):
-            module_config['dynamicFiles'][i]['path'] = module_config[
-                'dynamicFiles'][i]['path'].replace("Assembly_", "").replace(
-                    'STL/', 'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
+    # # update paths if the config is out of date
+    # TODO: THIS IS NOT DONE, SINCE the ALL_PARTS_FOR_EXPORT list DOES NOT MATCH THE LIST OF ALL STL FILES IN /STL
+    # if (len(module_config['fixedFiles']) != 0
+    #         and "Assembly_ALL_PARTS_FOR_EXPORT_"
+    #         not in module_config['fixedFiles'][0]):
+    #     print("updating fixedFile config paths...")
+    #     for i in range(len(module_config['fixedFiles'])):
+    #         module_config['fixedFiles'][i] = module_config['fixedFiles'][
+    #             i].replace("Assembly_", "").replace('STL/',
+    #                        'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
+    # if (len(module_config['dynamicFiles']) != 0
+    #         and "Assembly_ALL_PARTS_FOR_EXPORT_"
+    #         not in module_config['dynamicFiles'][0]['path']):
+    #     print("updating dynamicFile config paths...")
+    #     for i in range(len(module_config['dynamicFiles'])):
+    #         module_config['dynamicFiles'][i]['path'] = module_config[
+    #             'dynamicFiles'][i]['path'].replace("Assembly_", "").replace(
+    #                 'STL/', 'CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_')
 
     module_config['githubLink'] = module.githublink
     module_config['imageLink'] = module.image

@@ -3,8 +3,8 @@
   "description": "The basic building unit cube, with no inserts.",
   "options": {},
   "fixedFiles": [
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Cube_1x1_v2.stl",
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Lid_1x1_v2.stl"
+    "STL/10_Cube_1x1_v2.stl",
+    "STL/10_Lid_1x1_v2.stl"
   ],
   "dynamicFiles": [],
   "githubLink": "",

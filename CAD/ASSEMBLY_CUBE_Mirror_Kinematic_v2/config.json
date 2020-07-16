@@ -4,12 +4,14 @@
   "options": {},
   "fixedFiles": [],
   "dynamicFiles": [],
-  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Laser_v2",
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED_v2",
   "imageLink": "",
   "extraParts": [
     "ASSEMBLY_CUBE_empty_1\u00d71",
-    "00_Laser_Clamp_OnOffSwitch",
-    "Blue laser pointer, 445 nm",
-    "Screws M3\u00d718"
+    "Hi-Power LED 1W/3W UV STAR Blue",
+    "wire",
+    "Resistor",
+    "USB-microUSB cable",
+    "Wago binder"
   ]
 }

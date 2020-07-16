@@ -11,15 +11,15 @@
     }
   },
   "fixedFiles": [
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Cube_2x1_v2.stl",
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Lid_el_2x1_v2.stl",
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_20_focus_inlet_linearflexure_v0.stl",
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_30_Coupling_Screw_28BYJ_M3.stl",
-    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_30_focus_inlet_objective_mount_v7.stl"
+    "STL/10_Cube_2x1_v2.stl",
+    "STL/10_Lid_el_2x1_v2.stl",
+    "STL/20_focus_inlet_linearflexure_v0.stl",
+    "STL/30_Coupling_Screw_28BYJ_M3.stl",
+    "STL/30_focus_inlet_objective_mount_v7.stl"
   ],
   "dynamicFiles": [
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_30_Z_Stage_Adapterplate_11.stl",
+      "path": "STL/30_Z_Stage_Adapterplate_11.stl",
       "conditions": {
         "includeFluomodule": [
           "yes"
@@ -27,7 +27,7 @@
       }
     },
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_30_Z_Stage_Fluomodule_12.stl",
+      "path": "STL/30_Z_Stage_Fluomodule_12.stl",
       "conditions": {
         "includeFluomodule": [
           "yes"
@@ -35,7 +35,7 @@
       }
     },
     {
-      "path": "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_40_XY_Stage_Clamp_Slide_9.stl",
+      "path": "STL/40_XY_Stage_Clamp_Slide_9.stl",
       "conditions": {
         "includeFluomodule": [
           "yes"
