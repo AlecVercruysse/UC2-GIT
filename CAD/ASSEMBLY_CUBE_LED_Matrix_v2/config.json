@@ -1,10 +1,20 @@
 {
-    "type": "module",
-    "description": "This parts adapt a LED matrix to the UC2 cubes. Electric control is done by an ESP32.",
-    "options": {},
-    "fixedFiles": [
-        "STL/10_Lid_1x1_el_v2.stl",
-        "STL/30_Cube_LED_Array_v0.stl"
-    ],
-    "dynamicFiles": []
+  "type": "module",
+  "description": "This parts adapt a LED matrix to the UC2 cubes. Electric control is done by an ESP32.",
+  "options": {},
+  "fixedFiles": [
+    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Lid_1x1_el_v2.stl",
+    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_30_Cube_LED_Array_v0.stl"
+  ],
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED_v2",
+  "imageLink": "",
+  "extraParts": [
+    "ASSEMBLY_CUBE_empty_1\u00d71",
+    "Hi-Power LED 1W/3W UV STAR Blue",
+    "wire",
+    "Resistor",
+    "USB-microUSB cable",
+    "Wago binder"
+  ]
 }

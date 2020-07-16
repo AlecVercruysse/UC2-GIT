@@ -1,7 +1,12 @@
 {
   "type": "module",
-  "description": "TODO",
+  "description": "TODO TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED",
   "options": {},
   "fixedFiles": [],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Eyepiece_v2",
+  "imageLink": "",
+  "extraParts": [
+    "ASSEMBLY_CUBE_empty_1\u00d71"
+  ]
 }

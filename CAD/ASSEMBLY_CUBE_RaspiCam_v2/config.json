@@ -3,9 +3,14 @@
   "description": "Camera Holder for the RaspiCam v2",
   "options": {},
   "fixedFiles": [
-    "STL/10_Cube_1x1_v2.stl",
-    "STL/10_Lid_1x1_v2.stl",
-    "STL/20_Cube_Insert_RaspiCam.stl"
+    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Cube_1x1_v2.stl",
+    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_10_Lid_1x1_v2.stl",
+    "CAD/RAW/STL/Assembly_ALL_PARTS_FOR_EXPORT_20_Cube_Insert_RaspiCam.stl"
   ],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Lens_v2",
+  "imageLink": "",
+  "extraParts": [
+    "ASSEMBLY_CUBE_empty_1\u00d71"
+  ]
 }

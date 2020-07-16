@@ -1,7 +1,15 @@
 {
   "type": "module",
-  "description": "TDOO",
+  "description": "TDOO TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED",
   "options": {},
   "fixedFiles": [],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Laser_v2",
+  "imageLink": "",
+  "extraParts": [
+    "ASSEMBLY_CUBE_empty_1\u00d71",
+    "00_Laser_Clamp_OnOffSwitch",
+    "Blue laser pointer, 445 nm",
+    "Screws M3\u00d718"
+  ]
 }

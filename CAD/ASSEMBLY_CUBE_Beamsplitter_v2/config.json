@@ -1,7 +1,13 @@
 {
   "type": "module",
-  "description": "TODO",
+  "description": "TODO TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED",
   "options": {},
   "fixedFiles": [],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Base_v2",
+  "imageLink": "",
+  "extraParts": [
+    "Screws M3\u00d712",
+    "Screws M3\u00d78 (optional)"
+  ]
 }

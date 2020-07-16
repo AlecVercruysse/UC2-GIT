@@ -1,7 +1,10 @@
 {
   "type": "module",
-  "description": "TODO",
+  "description": "TODO TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED",
   "options": {},
   "fixedFiles": [],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "",
+  "imageLink": "",
+  "extraParts": []
 }

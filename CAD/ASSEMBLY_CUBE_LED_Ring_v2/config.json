@@ -1,7 +1,17 @@
 {
   "type": "module",
-  "description": "TODO",
+  "description": "TODO TODO:NEEDS options,fixedFiles,dynamicFiles CONFIGURED",
   "options": {},
   "fixedFiles": [],
-  "dynamicFiles": []
+  "dynamicFiles": [],
+  "githubLink": "https://github.com/bionanoimaging/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED_Matrix_v2",
+  "imageLink": "",
+  "extraParts": [
+    "Screws M3\u00d712",
+    "M2 screw + nut",
+    "LED Matrix 8\u00d78",
+    "ESP32",
+    "Female-Female Jumper Wire",
+    "USB-microUSB cable"
+  ]
 }
